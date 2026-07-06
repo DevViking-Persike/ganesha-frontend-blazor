@@ -38,3 +38,4 @@ Preservar a arquitetura real do repositório: host web fino, biblioteca comparti
 - [ ] O artefato novo é base, composite, infraestrutura ou showcase?
 - [ ] A direção de dependência continua apontando do host para a library compartilhada?
 - [ ] A página-lab continua sendo consumidora, não dona do contrato?
+teste
